@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1097142724881",
+    "firebase_url": "https://medical-help-system.firebaseio.com",
+    "project_id": "medical-help-system",
+    "storage_bucket": "medical-help-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097142724881:android:f7be0bfece621269",
+        "android_client_info": {
+          "package_name": "com.example.utkarshgupta.mhs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097142724881-i2gkprei4lccerm6fupadfa0q9fa0k85.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBliAt95HQexPNlNTIIMwzBgleCZTNad8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
